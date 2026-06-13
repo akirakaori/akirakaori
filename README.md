@@ -23,43 +23,105 @@ Passionate about software architecture, system design, backend engineering, and 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts" />
+  <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://dotnet.microsoft.com">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+  <a href="https://react.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+  <a href="https://dotnet.microsoft.com/apps/aspnet">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://expressjs.com">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </p>
 
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.postman.com">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://visualstudio.microsoft.com">
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
+  </a>
 </p>
 
 ### Design & Collaboration
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <a href="https://www.figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
 </p>
 
 ### Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://aws.amazon.com">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
 </p>
 
 ---
