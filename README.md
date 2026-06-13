@@ -2,9 +2,9 @@
 
 Backend & Full-Stack Developer
 
-Java • Python • C# • MERN Stack • MySQL • NoSQL
+Building practical software, AI-powered applications, and full-stack solutions using the MERN Stack, ASP.NET Core, Java, and Python.
 
-Building practical software, exploring system design, and continuously improving my engineering skills.
+Passionate about system design, clean architecture, and creating real-world applications that solve meaningful problems.
 
 ## About Me
 
@@ -68,3 +68,17 @@ Digital journaling application featuring CRUD operations and user-focused data m
 
 ### 📊 Crime Data Analysis
 Python-based data analysis project focused on identifying patterns and trends through visualization.
+
+### Currently Learning
+* System Design
+* Software Architecture
+* Cloud Technologies
+* AI-powered Applications
+* Scalable Backend Development
+
+### Connect With Me
+LinkedIn: https://www.linkedin.com/in/ashika-kambang/
+Email: ashikakambang@gmail.com
+
+### Current Focus
+Building production-ready applications, improving backend engineering skills, and exploring AI-powered solutions that solve real-world problems.
