@@ -68,7 +68,7 @@ Clinical appointment and patient management system developed using Java and MySQ
 ### 📝 [MyJournal](https://github.com/akirakaori/MyJournal)
 Digital journaling application featuring CRUD operations and user-focused data management.
 
-### 📊 [Crime Data Analysis](https://github.com/akirakaori/Crime Data Analysis
+### 📊 [Crime Data Analysis](https://github.com/akirakaori/crime-data-project.git)
 Python-based data analysis project focused on identifying patterns and trends through visualization.
 
 ### Currently Learning
