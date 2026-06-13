@@ -20,43 +20,46 @@ Passionate about software architecture, system design, backend engineering, and 
 
 ## Skills
 
-<p align="left">
-  <a href="https://www.java.com">
-    <img src="https://skillicons.dev/icons?i=java" />
-  </a>
-  <a href="https://dotnet.microsoft.com">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js,ts" />
-  </a>
-  <a href="https://react.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  </a>
-  <a href="https://www.oracle.com/database/">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
-  <a href="https://www.postman.com">
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </a>
-  <a href="https://www.figma.com">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,js,ts" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
+</p>
+
+### Design & Collaboration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
 </p>
 
 ---
@@ -112,6 +115,7 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 * System Design
 * Software Architecture
 * Cloud Technologies
+* Docker & Containerization
 * AI-Powered Applications
 * Scalable Backend Development
 
