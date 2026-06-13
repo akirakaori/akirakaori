@@ -10,11 +10,11 @@ Passionate about software architecture, system design, backend engineering, and 
 
 ## About Me
 
-* Computer Science student focused on backend and full-stack software development
-* Experienced with Java, C#, Python, JavaScript, TypeScript, React, ASP.NET Core, and Node.js
-* Building projects across healthcare, vehicle management, career intelligence, cinema operations, and education platforms
-* Interested in software architecture, scalable systems, cloud technologies, and AI-powered applications
-* Open to internships, graduate opportunities, collaborations, and real-world software projects
+- Computer Science student focused on backend and full-stack software development
+- Experienced with Java, C#, Python, JavaScript, TypeScript, React, ASP.NET Core, and Node.js
+- Building projects across healthcare, vehicle management, career intelligence, cinema operations, and education platforms
+- Interested in software architecture, scalable systems, cloud technologies, and AI-powered applications
+- Open to internships, graduate opportunities, collaborations, and real-world software projects
 
 ---
 
@@ -88,14 +88,7 @@ Passionate about software architecture, system design, backend engineering, and 
   </a>
 </p>
 
-<p>
-  <a href="https://www.postgresql.org">PostgreSQL</a> •
-  <a href="https://www.mongodb.com">MongoDB</a> •
-  <a href="https://www.mysql.com">MySQL</a> •
-  <a href="https://www.oracle.com/database/">Oracle Database</a> •
-  <a href="https://www.microsoft.com/en-us/sql-server">SQL Server</a> •
-  <a href="https://www.sqlite.org">SQLite</a>
-</p>
+PostgreSQL • MongoDB • MySQL • Oracle Database • SQL Server • SQLite
 
 ### Development Tools
 
@@ -125,7 +118,7 @@ Passionate about software architecture, system design, backend engineering, and 
   </a>
 </p>
 
-### Currently Learning
+### Cloud & DevOps
 
 <p>
   <a href="https://www.docker.com">
@@ -172,33 +165,32 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akirakaori\&show_icons=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akirakaori&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirakaori&layout=compact&hide_border=true" />
+</p>
 
-## Most Used Technologies
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akirakaori\&layout=compact)
-
-## Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=akirakaori)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akirakaori&hide_border=true" />
+</p>
 
 ---
 
 ## Currently Learning
 
-* System Design
-* Software Architecture
-* Cloud Technologies
-* Docker & Containerization
-* AI-Powered Applications
-* Scalable Backend Development
+- System Design
+- Software Architecture
+- Cloud Technologies
+- Docker & Containerization
+- AI-Powered Applications
+- Scalable Backend Development
 
 ---
 
 ## Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/ashika-kambang/
-* Email: [ashikakambang@gmail.com](mailto:ashikakambang@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/ashika-kambang/
+- Email: ashikakambang@gmail.com
 
 ---
 
