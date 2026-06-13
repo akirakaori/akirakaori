@@ -77,8 +77,8 @@ Python-based data analysis project focused on identifying patterns and trends th
 * Scalable Backend Development
 
 ### Connect With Me
-LinkedIn: https://www.linkedin.com/in/ashika-kambang/
-Email: ashikakambang@gmail.com
+* LinkedIn: https://www.linkedin.com/in/ashika-kambang/
+* Email: ashikakambang@gmail.com
 
 ### Current Focus
 Building production-ready applications, improving backend engineering skills, and exploring AI-powered solutions that solve real-world problems.
