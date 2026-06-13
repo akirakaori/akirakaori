@@ -83,6 +83,10 @@ Python-based data analysis project focused on identifying patterns and trends th
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akirakaori)
 
+## Contribution Activity
+
+![Ashika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akirakaori)
+
 ### Currently Learning
 * System Design
 * Software Architecture
