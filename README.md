@@ -75,6 +75,13 @@ Python-based data analysis project focused on identifying patterns and trends th
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akirakaori\&show_icons=true)
 
+## Most Used Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akirakaori&layout=compact)
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=akirakaori)
 
 ### Currently Learning
 * System Design
