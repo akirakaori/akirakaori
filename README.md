@@ -80,15 +80,22 @@ Passionate about software architecture, system design, backend engineering, and 
   <a href="https://www.postgresql.org">
     <img src="https://skillicons.dev/icons?i=postgres" />
   </a>
-  <a href="https://www.mysql.com">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
   <a href="https://www.mongodb.com">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
+  <a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
 </p>
 
-PostgreSQL • MongoDB • MySQL • Oracle Database • SQL Server • SQLite
+<p>
+  <a href="https://www.postgresql.org">PostgreSQL</a> •
+  <a href="https://www.mongodb.com">MongoDB</a> •
+  <a href="https://www.mysql.com">MySQL</a> •
+  <a href="https://www.oracle.com/database/">Oracle Database</a> •
+  <a href="https://www.microsoft.com/en-us/sql-server">SQL Server</a> •
+  <a href="https://www.sqlite.org">SQLite</a>
+</p>
 
 ### Development Tools
 
@@ -128,6 +135,7 @@ PostgreSQL • MongoDB • MySQL • Oracle Database • SQL Server • SQLite
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
+
 ---
 
 ## Featured Projects
