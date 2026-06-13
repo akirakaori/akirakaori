@@ -52,6 +52,9 @@ Passionate about software architecture, system design, backend engineering, and 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
+  <a href="https://tailwindcss.com">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
   <a href="https://getbootstrap.com">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
@@ -84,6 +87,8 @@ Passionate about software architecture, system design, backend engineering, and 
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
 </p>
+
+PostgreSQL • MongoDB • MySQL • Oracle Database • SQL Server • SQLite
 
 ### Development Tools
 
@@ -123,7 +128,6 @@ Passionate about software architecture, system design, backend engineering, and 
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
-
 ---
 
 ## Featured Projects
