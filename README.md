@@ -71,6 +71,11 @@ Digital journaling application featuring CRUD operations and user-focused data m
 ### 📈 [Crime Data Analysis](https://github.com/akirakaori/crime-data-project.git)
 Python-based data analysis project focused on identifying patterns and trends through visualization.
 
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akirakaori\&show_icons=true)
+
+
 ### Currently Learning
 * System Design
 * Software Architecture
