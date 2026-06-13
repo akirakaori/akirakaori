@@ -76,10 +76,6 @@ Passionate about software architecture, system design, backend engineering, and 
 
 ### Databases
 
-### Databases
-
-### Databases
-
 <p>
   <a href="https://www.postgresql.org">
     <img src="https://skillicons.dev/icons?i=postgres" />
