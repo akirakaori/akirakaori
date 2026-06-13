@@ -78,6 +78,8 @@ Passionate about software architecture, system design, backend engineering, and 
 
 ### Databases
 
+### Databases
+
 <p>
   <a href="https://www.postgresql.org">
     <img src="https://skillicons.dev/icons?i=postgres" />
@@ -87,17 +89,6 @@ Passionate about software architecture, system design, backend engineering, and 
   </a>
   <a href="https://www.mysql.com">
     <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.oracle.com/database/">
-    Oracle Database
-  </a>
-  •
-  <a href="https://www.microsoft.com/sql-server">
-    SQL Server
-  </a>
-  •
-  <a href="https://www.sqlite.org">
-    SQLite
   </a>
 </p>
 
