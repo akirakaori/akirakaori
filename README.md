@@ -55,15 +55,16 @@ AI-powered career intelligence platform with resume analysis and intelligent rec
 
 ### 🚗 Vehicle Parts Management System (VPMS)
 Full-stack inventory and service management application built with React and ASP.NET Core.
+###🧠  BrainBuzz
+Quiz management platform featuring role-based authentication, quiz creation workflows, automated scoring, and profile management.
 
 ### 🎬 KumariCinemas
 Cinema ticket booking and management system developed using ASP.NET and C#.
 
-### 📝 MyJournal
-Digital journaling application featuring CRUD operations and user-focused data management.
-
 ### 🏥 Cliniterra
 Clinical appointment and patient management system developed using Java and MySQL.
+### 📝 MyJournal
+Digital journaling application featuring CRUD operations and user-focused data management.
 
 ### 📊 Crime Data Analysis
 Python-based data analysis project focused on identifying patterns and trends through visualization.
