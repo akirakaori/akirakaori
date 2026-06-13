@@ -1,75 +1,97 @@
 # Hi, I'm Ashika 👋
 
-Backend & Full-Stack Developer
+### Backend & Full-Stack Developer
 
-Building scalable web applications, AI-powered solutions, and modern software systems using MERN Stack, ASP.NET Core, Java, and Python.
+Building scalable web applications, enterprise systems, and AI-powered solutions using ASP.NET Core, Java, React, Node.js, and modern software engineering practices.
 
-Passionate about software architecture, system design, and creating technology that solves real-world problems.
+Passionate about software architecture, system design, backend engineering, and creating technology that solves real-world problems.
+
+---
 
 ## About Me
 
-- Computer Science student focused on backend and full-stack development
-- Building projects with Java, Python, C#, MERN Stack, MySQL, and NoSQL
-- Currently learning system design, clean architecture, and cloud technologies
-- Interested in internships, collaboration, and real-world software projects
+* Computer Science student focused on backend and full-stack software development
+* Experienced with Java, C#, Python, JavaScript, TypeScript, React, ASP.NET Core, and Node.js
+* Building projects across healthcare, vehicle management, career intelligence, cinema operations, and education platforms
+* Interested in software architecture, scalable systems, cloud technologies, and AI-powered applications
+* Open to internships, graduate opportunities, collaborations, and real-world software projects
 
+---
 
-## Tech Stack
-### Languages
+## Skills
 
-* Java
-* C#
-* Python
-* JavaScript
+<p align="left">
+  <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://dotnet.microsoft.com">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js,ts" />
+  </a>
+  <a href="https://react.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
+  <a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  </a>
+  <a href="https://www.oracle.com/database/">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+  <a href="https://www.postman.com">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+  <a href="https://www.figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
 
-### Frontend
-
-* React
-* HTML
-* CSS
-
-### Backend
-
-* ASP.NET Core
-* Node.js
-* Express.js
-
-### Databases
-
-* MySQL
-* MongoDB
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Eclipse IDE
-* Visual Studio
-* VS Code
-* Postman
+---
 
 ## Featured Projects
 
-### 💼 [Lakshya](https://github.com/akirakaori/Lakshya)
+### [Lakshya](https://github.com/akirakaori/Lakshya)
+
 AI-powered career intelligence platform featuring resume parsing, job matching, recruiter workflows, intelligent recommendations, and real-time notifications.
 
-### 🛠️ [Vehicle Management System](https://github.com/akirakaori/Vehicle-Management-System)
-Full-stack inventory and service management application built with React and ASP.NET Core.
+### [Vehicle Parts & Service Management System](https://github.com/akirakaori/Vehicle-Management-System)
 
-### 🌐 [BrainBuzz](https://github.com/akirakaori/BrainBuzz)
-Quiz management platform featuring role-based authentication, quiz creation workflows, automated scoring, and profile management.
+Full-stack vehicle parts inventory and service management platform built with React, ASP.NET Core, PostgreSQL, Entity Framework Core, and JWT authentication.
 
-### 🎥 [KumariCinemas](https://github.com/akirakaori/KumariCinemas)
-Cinema ticket booking and management system developed using ASP.NET and C#.
+### [Cliniterra](https://github.com/akirakaori/Cliniterra)
 
-### ⚕️ [Cliniterra](https://github.com/akirakaori/Cliniterra)
-Clinical appointment and patient management system developed using Java and MySQL.
+Enterprise healthcare appointment management system built with Jakarta EE, JSP, Servlets, JDBC, and MySQL following MVC architecture principles.
 
-### 📓 [MyJournal](https://github.com/akirakaori/MyJournal)
-Digital journaling application featuring CRUD operations and user-focused data management.
+### [BrainBuzz](https://github.com/akirakaori/BrainBuzz)
 
-### 📈 [Crime Data Analysis](https://github.com/akirakaori/crime-data-project.git)
-Python-based data analysis project focused on identifying patterns and trends through visualization.
+Full-stack quiz platform featuring JWT authentication, role-based authorization, automated scoring, profile management, and secure REST APIs.
+
+### [KumariCinemas](https://github.com/akirakaori/KumariCinemas)
+
+Cinema operations and ticket management platform built with ASP.NET Web Forms, C#, Oracle Database, and Bootstrap.
+
+### [MyJournal](https://github.com/akirakaori/MyJournal)
+
+Digital journaling application focused on user experience, personal record management, and CRUD operations.
+
+### [Crime Data Analysis](https://github.com/akirakaori/crime-data-project)
+
+Python-based data analysis project focused on identifying trends, patterns, and insights through visualization and exploratory analysis.
+
+---
 
 ## GitHub Statistics
 
@@ -77,23 +99,31 @@ Python-based data analysis project focused on identifying patterns and trends th
 
 ## Most Used Technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akirakaori&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akirakaori\&layout=compact)
 
 ## Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akirakaori)
 
+---
 
-### Currently Learning
+## Currently Learning
+
 * System Design
 * Software Architecture
 * Cloud Technologies
-* AI-powered Applications
+* AI-Powered Applications
 * Scalable Backend Development
 
-### Connect With Me
-* LinkedIn: https://www.linkedin.com/in/ashika-kambang/
-* Email: ashikakambang@gmail.com
+---
 
-### Current Focus
-Building production-ready applications, improving backend engineering skills, and exploring AI-powered solutions that solve real-world problems.
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/ashika-kambang/
+* Email: [ashikakambang@gmail.com](mailto:ashikakambang@gmail.com)
+
+---
+
+## Current Focus
+
+Building production-ready applications, strengthening backend engineering skills, and exploring AI-powered solutions that solve real-world problems.
