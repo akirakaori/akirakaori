@@ -2,9 +2,9 @@
 
 Backend & Full-Stack Developer
 
-Building practical software, AI-powered applications, and full-stack solutions using the MERN Stack, ASP.NET Core, Java, and Python.
+Building scalable web applications, AI-powered solutions, and modern software systems using MERN Stack, ASP.NET Core, Java, and Python.
 
-Passionate about system design, clean architecture, and creating real-world applications that solve meaningful problems.
+Passionate about software architecture, system design, and creating technology that solves real-world problems.
 
 ## About Me
 
