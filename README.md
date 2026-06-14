@@ -185,10 +185,18 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ashika-kambang/
-- Email: ashikakambang@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/ashika-kambang/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/akirakaori">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+> Always learning. Always building. Always improving.
 
 ---
 
