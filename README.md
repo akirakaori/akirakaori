@@ -10,7 +10,7 @@ Passionate about software architecture, system design, backend engineering, and 
 
 ## About Me
 
-- Computer Science student focused on backend and full-stack software development
+- Computer Science graduate focused on backend and full-stack software development
 - Experienced with Java, C#, Python, JavaScript, TypeScript, React, ASP.NET Core, and Node.js
 - Building projects across healthcare, vehicle management, career intelligence, cinema operations, and education platforms
 - Interested in software architecture, scalable systems, cloud technologies, and AI-powered applications
