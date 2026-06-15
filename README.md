@@ -4,7 +4,7 @@
 
 Building scalable web applications, enterprise systems, and AI-powered solutions using ASP.NET Core, Java, React, Node.js, and modern software engineering practices.
 
-Passionate about software architecture, system design, backend engineering, and creating technology that solves real-world problems.
+Passionate about software architecture, system design, backend engineering, and creating technology that solves real-world problem.
 
 ---
 
