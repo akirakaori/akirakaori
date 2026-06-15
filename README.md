@@ -202,4 +202,4 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 
 ## Current Focus
 
-Building production-ready applications, strengthening backend engineering skills, and exploring AI-powered solutions that solve real-world problems.
+Building real world and production-ready applications, strengthening backend engineering skills, and exploring AI-powered solutions that solve real-world problems.
