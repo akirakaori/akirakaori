@@ -133,7 +133,7 @@ Passionate about software architecture, system design, backend engineering, and 
 
 ### [Lakshya](https://github.com/akirakaori/Lakshya)
 
-AI-powered career intelligence platform featuring resume parsing, job matching, recruiter workflows, intelligent recommendations
+AI-powered career intelligence platform featuring resume parsing, job matching, recruiter workflows, intelligent recommendations, and real-time notifications.
 
 ### [Vehicle Parts & Service Management System](https://github.com/akirakaori/Vehicle-Management-System)
 
