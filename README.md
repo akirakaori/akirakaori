@@ -108,9 +108,11 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
   <img src="https://img.shields.io/badge/Random%20Forest-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Logistic%20Regression-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Neural%20Networks-teal?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
+
 
 
 
