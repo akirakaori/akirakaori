@@ -215,4 +215,4 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 
 - Creating data-driven applications that deliver real-world impact
 
-Always learning. Always building. Always improving.
+>Always learning. Always building. Always improving.
