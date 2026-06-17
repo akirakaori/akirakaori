@@ -205,13 +205,11 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 
 ## Current Focus
 
-Current Focus
-
--Building production-ready backend and full-stack applications
+- Building production-ready backend and full-stack applications
 
 - Expanding cloud and DevOps expertise with AWS and Docker
 
--Exploring Machine Learning, Generative AI, and intelligent software systems
+- Exploring Machine Learning, Generative AI, and intelligent software systems
 
 - Strengthening software architecture, system design, and scalable engineering practices
 
