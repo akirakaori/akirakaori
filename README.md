@@ -109,6 +109,26 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 * Data Visualization
 * Pandas
 * Scikit-Learn
+### AI & Machine Learning
+
+<p>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Random%20Forest-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Logistic%20Regression-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-teal?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square" />
+</p>
+
 
 
 ### Development Tools
