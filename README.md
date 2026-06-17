@@ -199,7 +199,6 @@ Python-based data analysis project focused on identifying trends, patterns, and 
   </a>
 </p>
 
-> Always learning. Always building. Always improving.
 
 ---
 
