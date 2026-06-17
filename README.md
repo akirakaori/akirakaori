@@ -91,24 +91,7 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
   </a>
 </p>
 
-### AI & Machine Learning
 
-<p>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p>
-
-* Machine Learning
-* Data Analysis
-* Feature Engineering
-* XGBoost
-* Random Forest
-* Logistic Regression
-* Neural Networks (MLP)
-* Data Visualization
-* Pandas
-* Scikit-Learn
 ### AI & Machine Learning
 
 <p>
