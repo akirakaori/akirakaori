@@ -1,10 +1,12 @@
 # Hi, I'm Ashika 👋
 
-### Backend & Full-Stack Developer
+### Software Engineer | Backend, Full-Stack & AI Applications
 
-Building scalable web applications, enterprise systems, and AI-powered solutions using ASP.NET Core, Java, React, Node.js, and modern software engineering practices.
+Building scalable software systems, modern web applications, and AI-powered solutions using React, Node.js, Python, ASP.NET Core, Java and cloud technologies.
 
-Passionate about software architecture, system design, backend engineering, and creating technology that solves real-world problems.
+I am a Computer Science graduate passionate about backend engineering, software architecture, full-stack development, and intelligent applications. My experience spans enterprise systems, banking software, healthcare platforms, career intelligence solutions, and data-driven applications.
+
+Currently expanding my expertise in Artificial Intelligence, Machine Learning, cloud computing, and scalable system design while building software that solves real-world problems.
 
 ---
 
