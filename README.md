@@ -97,8 +97,6 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
     <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
-
-### AI & Machine Learning
 * Machine Learning
 * Data Analysis
 * Feature Engineering
