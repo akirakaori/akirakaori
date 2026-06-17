@@ -13,10 +13,11 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 ## About Me
 
 - Computer Science graduate focused on backend and full-stack software development
-- Experienced with Java, C#, Python, JavaScript, TypeScript, React, ASP.NET Core, and Node.js
-- Building projects across healthcare, vehicle management, career intelligence, cinema operations, and education platforms
-- Interested in software architecture, scalable systems, cloud technologies, and AI-powered applications
-- Open to internships, graduate opportunities, collaborations, and real-world software projects
+- Experienced in designing REST APIs, authentication systems, database-driven applications, and enterprise software
+- Built projects across banking, healthcare, vehicle management, career intelligence, education, and analytics domains
+- Passionate about software architecture, system design, cloud technologies, and AI-powered applications
+- Continuously learning Machine Learning, Generative AI, and modern software engineering practices
+- Open to Software Engineer, Backend Developer, Full-Stack Developer, AI/ML Intern, and Graduate opportunities
 
 ---
 
