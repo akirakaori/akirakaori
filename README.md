@@ -90,6 +90,26 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
+### AI & Machine Learning
+
+<p>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
+
+### AI & Machine Learning
+* Machine Learning
+* Data Analysis
+* Feature Engineering
+* XGBoost
+* Random Forest
+* Logistic Regression
+* Neural Networks (MLP)
+* Data Visualization
+* Pandas
+* Scikit-Learn
+
 
 ### Development Tools
 
