@@ -230,18 +230,7 @@ Python-based data analysis project focused on identifying trends, patterns, and 
   <img src="https://streak-stats.demolab.com?user=akirakaori&hide_border=true" />
 </p>
 
----
 
-## Currently Learning
-
-- System Design
-- Software Architecture
-- Cloud Technologies
-- Docker & Containerization
-- AI-Powered Applications
-- Scalable Backend Development
-
----
 
 
 
