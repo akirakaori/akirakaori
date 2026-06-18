@@ -49,7 +49,7 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 </tr>
 </table>
----
+
 
 ## Skills
 
