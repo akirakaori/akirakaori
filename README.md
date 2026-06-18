@@ -113,6 +113,20 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 <img src="https://img.shields.io/badge/Scikit_Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
 
 </p>
+<p align="left">
+
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=339933" />
+<img src="https://img.shields.io/badge/ASP.NET_CORE-000000?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+
+</p>
 
 
 ### Development Tools
