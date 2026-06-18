@@ -32,9 +32,14 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 </td>
 
-<td width="50%" align="center">
 
+<td width="40%" align="center">
+
+<a href="https://ashikakambang.vercel.app">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420">
+</a>
+
+</td>
 </td>
 </tr>
 </table>
