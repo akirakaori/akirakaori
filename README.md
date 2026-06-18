@@ -219,16 +219,6 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akirakaori&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirakaori&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akirakaori&hide_border=true" />
-</p>
 
 
 
