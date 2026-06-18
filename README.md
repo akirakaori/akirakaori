@@ -221,7 +221,7 @@ Python-based data analysis project focused on identifying trends, patterns, and 
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
+>Always learning. Always building. Always improving.
 
 ---
 
@@ -237,4 +237,4 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 
 - Creating data-driven applications that deliver real-world impact
 
->Always learning. Always building. Always improving.
+
