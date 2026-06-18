@@ -23,11 +23,21 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 * Enjoy solving real-world problems through technology
 * Open to Software Engineering, Backend, Full-Stack and AI opportunities
 
-### 🌐 Connect
+### 🌐 Connect With Me
 
-* Portfolio: <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a>
-* LinkedIn: <a href="https://www.linkedin.com/in/ashika-kambang/">Ashika Kambang</a>
-* GitHub: <a href="https://github.com/akirakaori">akirakaori</a>
+<p>
+  <a href="https://ashikakambang.vercel.app">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashika-kambang/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/akirakaori">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+>Always learning. Always building. Always improving.
 
 </td>
 
@@ -233,18 +243,7 @@ Python-based data analysis project focused on identifying trends, patterns, and 
 
 ---
 
-## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/ashika-kambang/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/akirakaori">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
->Always learning. Always building. Always improving.
 
 ---
 
