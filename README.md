@@ -92,28 +92,27 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 </p>
 
 
+
 ### AI & Machine Learning
 
-<p>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/XGBoost-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Random%20Forest-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Logistic%20Regression-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-teal?style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Machine_Learning-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/Data_Analysis-0A0A0A?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/Feature_Engineering-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/XGBoost-0A0A0A?style=for-the-badge&logo=xgboost&logoColor=FF6600" />
+<img src="https://img.shields.io/badge/Random_Forest-0A0A0A?style=for-the-badge&logo=treehouse&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/Logistic_Regression-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Neural_Networks-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=for-the-badge&logo=pandas&logoColor=E70488" />
+<img src="https://img.shields.io/badge/Scikit_Learn-0A0A0A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+
 </p>
-
-
 
 
 ### Development Tools
