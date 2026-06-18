@@ -7,70 +7,35 @@ Building scalable software systems, modern web applications, and AI-powered solu
 I am a Computer Science graduate passionate about backend engineering, software architecture, full-stack development, and intelligent applications. My experience spans enterprise systems, banking software, healthcare platforms, career intelligence solutions, and data-driven applications.
 
 Currently expanding my expertise in Artificial Intelligence, Machine Learning, cloud computing, and scalable system design while building software that solves real-world problems.
-
 <table>
 <tr>
 <td width="55%">
 
-<h3>About Me</h3>
+### 👨‍💻 A Little About Me
 
-<ul>
-<li>▸ Computer Science Graduate</li>
-<li>▸ Backend & Full-Stack Developer</li>
-<li>▸ Exploring Artificial Intelligence & Machine Learning</li>
-<li>▸ Learning Cloud Computing, AWS & Scalable Systems</li>
-<li>▸ Building real-world software solutions</li>
-<li>▸ Interested in Software Architecture & System Design</li>
-</ul>
+- 🎓 Computer Science Graduate
+- 💻 Backend & Full-Stack Developer
+- 🤖 Learning AI & Machine Learning
+- ☁️ Exploring AWS & Cloud Computing
+- 🚀 Building real-world software solutions
+- 📚 Passionate about System Design & Software Architecture
 
-<h3>Links</h3>
+### 🌐 Links
 
-<ul>
-<li>Portfolio: <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/ashika-kambang/">Ashika Kambang</a></li>
-<li>GitHub: <a href="https://github.com/akirakaori">akirakaori</a></li>
-</ul>
+- Portfolio: <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ashika-kambang/">Ashika Kambang</a>
+- GitHub: <a href="https://github.com/akirakaori">akirakaori</a>
 
 </td>
 
 <td width="45%">
 
-<img src="YOUR_GIF_HERE" width="350"/>
+<img src="YOUR_WORKING_GIF_HERE" width="350"/>
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="55%">
-
-<h3>✨ About Me</h3>
-
-• Computer Science Graduate<br>
-• Backend & Full-Stack Developer<br>
-• Exploring AI & Machine Learning<br>
-• Learning Cloud Technologies & AWS<br>
-• Building scalable software systems<br>
-• Passionate about System Design & Software Architecture
-
-<br><br>
-
-<h3>🔗 Connect</h3>
-
-Portfolio → <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a><br>
-LinkedIn → <a href="https://www.linkedin.com/in/ashika-kambang/">Ashika Kambang</a><br>
-GitHub → <a href="https://github.com/akirakaori">akirakaori</a>
-
-</td>
-
-<td width="45%">
-
-<img src="YOUR_GIF_HERE" width="350"/>
-
-</td>
-</tr>
-</table>
 ---
 
 ## About Me
