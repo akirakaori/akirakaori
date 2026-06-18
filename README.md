@@ -34,8 +34,7 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 <td width="50%" align="center">
 
-
-<img src="https://user-images.githubusercontent.com/74038190/240885760-2c3e0e2f-6a6d-44f2-9a44-4e4f4e73d6f5.gif" width="420">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420">
 </td>
 </tr>
 </table>
