@@ -11,7 +11,11 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 <tr>
 <td width="55%">
 
-### 👨‍💻 A Little About Me
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👩‍💻 A Little About Me
 
 - 🎓 Computer Science Graduate
 - 💻 Backend & Full-Stack Developer
@@ -28,14 +32,13 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 </td>
 
-<td width="45%">
+<td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="450"/>
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## About Me
