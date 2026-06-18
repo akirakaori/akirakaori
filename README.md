@@ -34,7 +34,7 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 <td width="50%" align="center">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420">
 
 </td>
 </tr>
