@@ -30,7 +30,7 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 <td width="45%">
 
-<img src="YOUR_WORKING_GIF_HERE" width="350"/>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="350"/>
 
 </td>
 </tr>
