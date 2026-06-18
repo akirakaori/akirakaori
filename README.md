@@ -7,23 +7,27 @@ Building scalable software systems, modern web applications, and AI-powered solu
 I am a Computer Science graduate passionate about backend engineering, software architecture, full-stack development, and intelligent applications. My experience spans enterprise systems, banking software, healthcare platforms, career intelligence solutions, and data-driven applications.
 
 Currently expanding my expertise in Artificial Intelligence, Machine Learning, cloud computing, and scalable system design while building software that solves real-world problems.
-<table>
-<tr>
-<td width="55%">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
----
-
 ### 👩‍💻 About Me
 
-...
+* Building backend systems, REST APIs and full-stack applications
+* Experienced across banking, healthcare, education and analytics projects
+* Interested in AI-powered software, intelligent systems and automation
+* Passionate about software architecture, scalability and clean code
+* Enjoy solving real-world problems through technology
+* Open to Software Engineering, Backend, Full-Stack and AI opportunities
+
+### 🌐 Connect
+
+* Portfolio: <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/ashika-kambang/">Ashika Kambang</a>
+* GitHub: <a href="https://github.com/akirakaori">akirakaori</a>
 
 </td>
 
