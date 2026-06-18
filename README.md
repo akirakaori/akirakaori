@@ -25,7 +25,8 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 ### 🌐 Connect With Me
 
-* Portfolio: <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a>
+* My Portfolio Webiste: <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a>
+
   <a href="https://www.linkedin.com/in/ashika-kambang/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
