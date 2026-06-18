@@ -15,23 +15,17 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 <tr>
 <td width="50%" valign="top">
 
-### 👩‍💻 A Little About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🎓 Computer Science Graduate
-- 💻 Backend & Full-Stack Developer
-- 🤖 Learning AI & Machine Learning
-- ☁️ Exploring AWS & Cloud Computing
-- 🚀 Building real-world software solutions
-- 📚 Passionate about System Design & Software Architecture
+---
 
-### 🌐 Links
+### 👩‍💻 About Me
 
-- Portfolio: <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/ashika-kambang/">Ashika Kambang</a>
-- GitHub: <a href="https://github.com/akirakaori">akirakaori</a>
+...
 
 </td>
-
 
 <td width="40%" align="center">
 
@@ -41,20 +35,8 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 </td>
 
-</td>
 </tr>
 </table>
----
-
-## About Me
-
-- Computer Science graduate focused on backend and full-stack software development
-- Experienced in designing REST APIs, authentication systems, database-driven applications, and enterprise software
-- Built projects across banking, healthcare, vehicle management, career intelligence, education, and analytics domains
-- Passionate about software architecture, system design, cloud technologies, and AI-powered applications
-- Continuously learning Machine Learning, Generative AI, and modern software engineering practices
-- Open to Software Engineer, Backend Developer, Full-Stack Developer, AI/ML Intern, and Graduate opportunities
-
 ---
 
 ## Skills
