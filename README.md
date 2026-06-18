@@ -14,7 +14,7 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 <tr>
 <td width="60%" valign="top">
 
-### 👩‍💻 About Me
+###  About Me
 
 * Building backend systems, REST APIs and full-stack applications
 * Experienced across banking, healthcare, education and analytics projects
@@ -25,10 +25,7 @@ Currently expanding my expertise in Artificial Intelligence, Machine Learning, c
 
 ### 🌐 Connect With Me
 
-<p>
-  <a href="https://ashikakambang.vercel.app">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
+* Portfolio: <a href="https://ashikakambang.vercel.app">ashikakambang.vercel.app</a>
   <a href="https://www.linkedin.com/in/ashika-kambang/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
