@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend, Full-Stack & AI Applications
 
-
+Building scalable software systems, modern web applications, and AI-powered solutions using React, Node.js, Python, ASP.NET Core, Java and cloud technologies.
 
 I am a Computer Science graduate passionate about backend engineering, software architecture, full-stack development, and intelligent applications. My experience spans enterprise systems, banking software, healthcare platforms, career intelligence solutions, and data-driven applications.
 Currently expanding my expertise in Artificial Intelligence, Machine Learning, cloud computing, and scalable system design while building software that solves real-world problems.
