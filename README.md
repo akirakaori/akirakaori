@@ -18,12 +18,11 @@ Passionate about software architecture, intelligent systems, and continuous lear
 
 ###  About Me
 
-* Full-Stack and Backend Developer with experience building REST APIs and scalable web applications
+* Full-Stack & Backend Developer experienced in building REST APIs and scalable web applications
 * Hands-on experience across core banking, healthcare, career intelligence, and analytics projects
-* Built AI-powered solutions using machine learning and intelligent automation
+* Developed AI-powered applications using machine learning and intelligent automation
 * Passionate about software architecture, system design, scalability, and clean code
-* Continuously exploring AI/ML, cloud technologies, and modern development practices
-* Open to Junior Full-Stack, Backend Developer, and AI/ML Engineer opportunities
+* Continuously exploring AI/ML, cloud technologies, and modern software engineering practices
 
 ### 🌐 Connect With Me
 
