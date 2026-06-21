@@ -18,12 +18,12 @@ Passionate about software architecture, intelligent systems, and continuous lear
 
 ###  About Me
 
-* Building backend systems, REST APIs and full-stack applications
-* Experienced across banking, healthcare, education and analytics projects
-* Interested in AI-powered software, intelligent systems and automation
-* Passionate about software architecture, scalability and clean code
-* Enjoy solving real-world problems through technology
-* Open to Software Engineering, Backend, Full-Stack and AI opportunities
+* Full-Stack and Backend Developer with experience building REST APIs and scalable web applications
+* Hands-on experience across core banking, healthcare, career intelligence, and analytics projects
+* Built AI-powered solutions using machine learning and intelligent automation
+* Passionate about software architecture, system design, scalability, and clean code
+* Continuously exploring AI/ML, cloud technologies, and modern development practices
+* Open to Junior Full-Stack, Backend Developer, and AI/ML Engineer opportunities
 
 ### 🌐 Connect With Me
 
