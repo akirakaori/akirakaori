@@ -1,6 +1,6 @@
 # Hi, I'm Ashika 👋
 
-### Aspiring Full-Stack & Backend Developer | AI/ML Enthusiast
+### Full-Stack & Backend Developer | AI/ML Enthusiast
 
 Computer Science graduate with hands-on experience building full-stack web applications, robust backend systems, and AI-powered solutions using **React, Node.js, ASP.NET Core, PostgreSQL, MongoDB, and Python**.
 
