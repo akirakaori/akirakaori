@@ -10,10 +10,7 @@ Passionate about software architecture, intelligent systems, and continuous lear
 
 
 
----
 
-<table>
-<tr>
 <td width="60%" valign="top">
 
 ###  About Me
