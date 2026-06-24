@@ -6,7 +6,6 @@ Computer Science graduate with hands-on experience building full-stack web appli
 
 I've developed projects across banking, healthcare, career intelligence, and data-driven domains. I enjoy designing clean APIs, building scalable features, optimizing databases, and applying machine learning to solve real-world problems.
 
-Passionate about software architecture, intelligent systems, and continuous learning as I grow into a strong engineer.
 
 
 
